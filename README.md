@@ -9,7 +9,7 @@ Programming & Tools: Python, SQL (MySQL), MS Office Suite, Tableau.
 Analytics & Modeling: Exploratory Data Analysis (EDA), statistics, hypothesis testing.
 Machine Learning: Supervised and unsupervised learning techniques, predictive analytics.
 
-👩🏻‍💻 Current Projects:
+👨🏻‍💻 Current Projects:
 Analyzing datasets to uncover trends and insights through hypothesis testing and visualization.
 Building machine learning models for predictive and segmentation tasks.
 Exploring sentiment analysis and generative AI for innovative use cases.
