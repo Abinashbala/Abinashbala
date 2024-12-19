@@ -1,16 +1,17 @@
-## Hi there 👋
+🚀 Hi!
+I'm a recent graduate with a BSc in Information Practices, embarking on my journey in data science. I thrive on uncovering insights and crafting data-driven solutions to complex problems.
 
-<!--
-**Abinashbala/Abinashbala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm Open to Opportunities!
+Looking to collaborate, contribute, and grow in the fields of data analysis, machine learning, and AI.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Skills & Expertise
+Programming & Tools: Python, SQL (MySQL), MS Office Suite, Tableau.
+Analytics & Modeling: Exploratory Data Analysis (EDA), statistics, hypothesis testing.
+Machine Learning: Supervised and unsupervised learning techniques, predictive analytics.
+👩🏻‍💻 Current Projects:
+Analyzing datasets to uncover trends and insights through hypothesis testing and visualization.
+Building machine learning models for predictive and segmentation tasks.
+Exploring sentiment analysis and generative AI for innovative use cases.
+🌟 Let's Connect:
+Collaborations, discussions, or projects — I'm eager to connect and create impactful solutions together!
+Reach me @: abinash.skh@gmail.com
