@@ -8,10 +8,12 @@ Looking to collaborate, contribute, and grow in the fields of data analysis, mac
 Programming & Tools: Python, SQL (MySQL), MS Office Suite, Tableau.
 Analytics & Modeling: Exploratory Data Analysis (EDA), statistics, hypothesis testing.
 Machine Learning: Supervised and unsupervised learning techniques, predictive analytics.
+
 👩🏻‍💻 Current Projects:
 Analyzing datasets to uncover trends and insights through hypothesis testing and visualization.
 Building machine learning models for predictive and segmentation tasks.
 Exploring sentiment analysis and generative AI for innovative use cases.
+
 🌟 Let's Connect:
 Collaborations, discussions, or projects — I'm eager to connect and create impactful solutions together!
 Reach me @: abinash.skh@gmail.com
